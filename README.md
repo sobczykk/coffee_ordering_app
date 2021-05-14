@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project: Coffee - coffee ordering app.
 
 Simple app for ordering coffee from favourite cafe created with flutter.
@@ -42,8 +41,3 @@ Coffee ordering app with pickup / take-away for a specific cafe.
 ---
 
 In progress.
-=======
-# Coffee Ordering App
-
-A new Flutter project.
->>>>>>> e7e6f663cb86bf1c243582c71aa3407b84b79140
