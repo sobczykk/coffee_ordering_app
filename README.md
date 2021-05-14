@@ -4,15 +4,11 @@ Simple app for ordering coffee from favourite cafe created with flutter.
 
 ## Table of Contents:
 
----
-
 1. [About project](#about-project)
 2. [Bulit with](#built-with)
 3. [Status](#status)
 
-### About project:
-
----
+## About project:
 
 Coffee ordering app with pickup / take-away for a specific cafe.
 <br><br>
@@ -26,9 +22,7 @@ Coffee ordering app with pickup / take-away for a specific cafe.
 - information about the cafe (map, opening hours)
 - payment handling
 
-### Built with:[](#built)
-
----
+## Built with:[](#built)
 
 - Framework - Flutter
 - Language - Dart
@@ -36,8 +30,6 @@ Coffee ordering app with pickup / take-away for a specific cafe.
 - Payment - Stripe
 - UI design - Figma
 
-### Status:[](#status)
-
----
+## Status:[](#status)
 
 In progress.
