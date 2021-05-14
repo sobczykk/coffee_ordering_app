@@ -1,16 +1,43 @@
-# coffee_ordering_app
+# Project: Coffee - coffee ordering app.
 
-A new Flutter project.
+Simple app for ordering coffee from favourite cafe created with flutter.
 
-## Getting Started
+## Table of Contents:
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+1. [About project](#about-project)
+2. [Bulit with](#built-with)
+3. [Status](#status)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### About project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Coffee ordering app with pickup / take-away for a specific cafe.
+<br><br>
+<img src="./assets/images/screen.png" alt="drawing" width="200"/>
+
+**Functionality:**
+- user profile, registration
+- product categories
+- product detail view
+- adding to the cart, previewing the cart
+- information about the cafe (map, opening hours)
+- payment handling
+
+### Built with:[](#built)
+
+---
+
+- Framework - Flutter
+- Language - Dart
+- Database - Firebase Firestore
+- Payment - Stripe
+- UI design - Figma
+
+### Status:[](#status)
+
+---
+
+In progress.
